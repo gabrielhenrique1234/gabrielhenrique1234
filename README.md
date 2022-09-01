@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrielhenrique1234
+- 👋 Meu nome é @gabrielhenrique1234
 - 👀 Eu estou interessado em aprender novas plataformas
 - 🌱 Eu gosto de jogar futebol
 - 💞️ Estudo no periodo matutino
