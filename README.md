@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabrielhenrique1234
 - 👀 Eu estou interessado em aprender novas plataformas
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Eu gosto de jogar futebol
+- 💞️ Estudo no periodo matutino
+- 📫 Meu @escola é gabriel.azevedo.mesquita@escola.pr.gov.br
 
 <!---
 gabrielhenrique1234/gabrielhenrique1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
